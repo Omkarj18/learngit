@@ -28,3 +28,5 @@ def setup(request):
 
     driver.get("https://rahulshettyacademy.com/angularpractice/")
     driver.maximize_window()
+
+print('hello')
